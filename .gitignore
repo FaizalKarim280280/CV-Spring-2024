@@ -161,3 +161,5 @@ cython_debug/
 
 
 temp.ipynb
+train_descriptors.npy
+test_descriptors.npy
