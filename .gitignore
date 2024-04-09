@@ -167,3 +167,5 @@ test_descriptors.npy
 wandb
 temp/
 forest_gump_faces
+
+*.pt
